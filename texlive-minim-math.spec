@@ -1,6 +1,6 @@
 Name:		texlive-minim-math
-Version:	62419
-Release:	2
+Version:	68612
+Release:	1
 Summary:	Extensive maths for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-math
