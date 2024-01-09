@@ -1,5 +1,5 @@
 Name:		texlive-minim-math
-Version:	68612
+Version:	69352
 Release:	1
 Summary:	Extensive maths for LuaTeX
 Group:		Publishing
